@@ -171,15 +171,15 @@
 // Scout
 "Tip_1_Count"	"10"
 // Generic
-"Tip_1_1"		"En tant que Scout, vous pouvez faire un double saut en pleine air pour changer de direction rapidement."
+"Tip_1_1"		"En tant que Scout, vous pouvez faire un double saut en plein air pour changer de direction rapidement."
 "Tip_1_2"		"En tant que Scout, vous capturez les points deux fois plus vite que les autres classes."
-"Tip_1_3"		"En tant que Scout, vous êtes plus rapide que n'importe quel autre classe. Attirez les ennemies et échapez-vous promptement !"
+"Tip_1_3"		"En tant que Scout, vous êtes plus rapide que n'importe quelle autre classe. Attirez les ennemies et échapez-vous promptement !"
 // Stock
 "Tip_1_4"		"En tant que Scout, votre fusil à dispersion est mortel à bout portant. Rapprochez-vous de vos ennemies pour infliger beaucoup plus de dégâts."
 "Tip_1_5"		"En tant que Scout, utilisez votre pistolet pour vous débarrasser d'ennemis en gardant vos distances."
 "Tip_1_6"		"En tant que Scout, votre batte inflige moins de dégâts que les autres armes de corps à corps, mais attaque bien plus rapidement."
 // Death & Taxes
-"Tip_1_7"		"En tant que Scout, votre pistolet à clous fait de bons dégâts, même à distance. N'arrétez pas de bouger et courbez vos tirs."
+"Tip_1_7"		"En tant que Scout, votre pistolet à clous fait de bons dégâts, même à distance. N'arrêtez pas de bouger et courbez vos tirs."
 "Tip_1_8"		"En tant que Scout, déchiqueter une mitrailleuse n'est pas un problème avec votre pistolet à clou. Utilisez le quand vous êtes en face d'un nid un peu difficile."
 // Fight or Flight
 "Tip_1_9"		"En tant que Scout, votre brique fait de bons dégâts et un gros recul. Envoyez-les voler !"
